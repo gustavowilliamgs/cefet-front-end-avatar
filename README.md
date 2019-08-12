@@ -50,10 +50,10 @@ deve ser colocado dentro de `avatar.js`.
 
 Há várias imagens com cabelos diferentes que podem ser usados no avatar:
 
-- `imgs/cabelo-careca-curto.png`
+- `imgs/cabelo-careca.png`
 - `imgs/cabelo-alaranjado-curto.png`
 - `imgs/cabelo-azul-longo.png`
-- `imgs/cabelo-cabelo-marrom-curto.png`
+- `imgs/cabelo-marrom-curto.png`
 - `imgs/cabelo-preto-medio.png`
 - `imgs/cabelo-roxo-curto.png`
 - `imgs/cabelo-verde-medio.png`
