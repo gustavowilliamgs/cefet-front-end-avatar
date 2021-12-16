@@ -1,6 +1,6 @@
 # AvatarCreator
 
-[Baixe os arquivos](https://github.com/fegemo/cefet-front-end-avatar/archive/master.zip)
+[Baixe os arquivos](https://github.com/fegemo/cefet-front-end-avatar/archive/main.zip)
 aqui. Nesta atividade vamos criar um montador de avatares em pixel art!
 
 ![](docs/resultado-final.png)
