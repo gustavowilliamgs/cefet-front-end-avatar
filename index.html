@@ -40,11 +40,31 @@
           <img src="imgs/acessorio-bandana.png" alt="Bandana" id="avatar-bandana" class="avatar-acessorio">
         </div>
         <p id="avatar-nome">Meu nome...</p>
+        <button style="display: block; margin: auto;" id="botao-salvar">Salvar</button>
       </section>
       <section id="secao-controles">
         <h2>Controles</h2>
         <div>
           <!-- coloque os controles aqui -->
+          <label>Nome:</label>
+          <input type="text" id="input-nome" placeholder="Digite o nome do seu avatar" maxlength="50">
+          <p>Escolha a cor de peledo avatar:
+            <input type="color" id="input-cor">
+          </p>
+          <p>Escolha o cabelo:
+            <select id="input-cabelo">
+              <option value="0" selected>Careca</option>
+              <option value="1">Alaranjado curto</option>
+              <option value="2">Azul longo</option>
+              <option value="3">Marrom curto</option>
+              <option value="4">Preto medio</option>
+              <option value="5">Roxo curto</option>
+              <option value="6">Verde medio</option>
+            </select>
+          </p>
+          <input type="checkbox" id="input-oculos"> Óculos
+          <input type="checkbox" id="input-lacinho"> Lacinho
+          <input type="checkbox" id="input-bandana"> Bandana
         </div>
       </section>
       <section id="secao-instrucoes">
@@ -62,5 +82,6 @@
       </section>
     </main>
     <script src="avatar.js" charset="utf-8"></script>
+    <script src="html2canvas.js" charset="utf-8"></script>
   </body>
 </html>
